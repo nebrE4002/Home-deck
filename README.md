@@ -1,4 +1,6 @@
 # Handleiding: HOME-Deck
+![HOME-Deck](https://github.com/nebrE4002/Home-deck/assets/26647410/d2109c69-034e-4650-bf70-37d2b759ea04)
+
 ## Materialen die je nodig hebt:
 orange Pi 5 (minimaal 8GB ram)
 7 inch scherm (aangeraden minimaal 1024*600 pixel)
