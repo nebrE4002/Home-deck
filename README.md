@@ -7,13 +7,17 @@ uitleg project ....
 ## Materialen die je nodig hebt:
 
  - Orange Pi 5 (minimaal 8GB ram) 
- - 7 inch scherm (aangeraden minimaal 1024*600 pixel) 
+ - 7 inch scherm(aangeraden minimaal 1024*600 pixel) 
  - Arduino Micro 
  - 2 joysticks 
  - 16 knoppen 
  - USB-kabels
  - MicroSD-kaart (minimaal 32GB aanbevolen 128GB+) 
  - Behuizing (de 3D bestanden die voor dit project gebruikt kunnen worden kunnen altijd aangepast worden als je hier behoefde aan hebt)
+
+> het kan zijn de de 7inch scherm niet werkt op een Orange pi 5 dan heb je de volgende materialen nodig om het op te lossen. 
+> - usb-c naar HDMI kabbel / adapter
+>  - HDMI dummy 
 
 ## Stap 1: Verzamel de benodigde materialen
 Zorg ervoor dat je alle benodigde materialen hebt verzameld voordat je begint met de bouw van je handheld console. Dit omvat de Orange Pi , het 7 inch scherm, de Arduino Micro, de joysticks, de knoppen en alle vereiste kabels.
@@ -81,7 +85,7 @@ om steam op te starten open je de terminal en run je de command:
 voor meer informatie ga naar > [Installing Steam on the Orange Pi 5 with Armbian](https://jamesachambers.com/installing-steam-on-the-orange-pi-5-with-armbian/)
 
 ## Stap 5: Sluit de Arduino Micro aan
-Sluit de Arduino Micro aan op de Raspberry Pi met behulp van een USB-kabel.
+Sluit de Arduino Micro aan op de Orange Pi met behulp van een USB-kabel.
 Verbind de joysticks en knoppen met de Arduino Micro volgens het schema dat je hebt gebruikt bij het bouwen van je handheld console.
 
 ## Stap 6: Programmeer de Arduino Micro
