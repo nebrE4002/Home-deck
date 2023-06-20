@@ -15,7 +15,7 @@ uitleg project ....
  - MicroSD-kaart (minimaal 32GB aanbevolen 128GB+) 
  - Behuizing (de 3D bestanden die voor dit project gebruikt kunnen worden kunnen altijd aangepast worden als je hier behoefde aan hebt)
 
-> het kan zijn de de 7inch scherm niet werkt op een Orange pi 5 dan heb je de volgende materialen nodig om het op te lossen. 
+> het kan zijn de de 7inch scherm niet werkt op een Orange pi 5. Dan heb je de volgende materialen nodig om het op te lossen. 
 > - usb-c naar HDMI kabbel / adapter
 >  - HDMI dummy 
 
