@@ -1,14 +1,19 @@
 # HOME-Deck
 
+uitleg project ....
+
+
+
 ## Materialen die je nodig hebt:
-orange Pi 5 (minimaal 8GB ram)
-7 inch scherm (aangeraden minimaal 1024*600 pixel)
-Arduino Micro
-2 joysticks
-16 knoppen
-USB-kabels
-MicroSD-kaart (minimaal 32GB aanbevolen 128GB+)
-Behuizing (de 3D bestanden die voor dit project gebruikt kunnen worden kunnen altijd aangepast worden als je hier behoefde aan hebt)
+
+ - orange Pi 5 (minimaal 8GB ram) 
+ - 7 inch scherm (aangeraden minimaal 1024*600 pixel) 
+ - Arduino Micro 
+ - 2 joysticks 
+ - 16 knoppen 
+ - USB-kabels
+ - MicroSD-kaart (minimaal 32GB aanbevolen 128GB+) 
+ - Behuizing (de 3D bestanden die voor dit project gebruikt kunnen worden kunnen altijd aangepast worden als je hier behoefde aan hebt)
 
 ## Stap 1: Verzamel de benodigde materialen
 Zorg ervoor dat je alle benodigde materialen hebt verzameld voordat je begint met de bouw van je handheld console. Dit omvat de Raspberry Pi, het 7 inch scherm, de Arduino Micro, de joysticks, de knoppen en alle vereiste kabels.
@@ -45,7 +50,7 @@ Zodra de Raspberry Pi is opgestart, open je de Steam-client en meld je je aan bi
 Je kunt nu beginnen met het installeren en spelen van games op je handheld console!
 
 ## Extra bronnen:
-Voor meer gedetailleerde informatie over het installeren en instellen van Armbian kun je terecht op [link-naar-armbian-website].
+Voor meer gedetailleerde informatie over het installeren en instellen van Armbian kun je terecht op [link-naar-armbian-website](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 Informatie over het installeren van Steam op Armbian is te vinden op [link-naar-steam-website].
 Raadpleeg de documentatie van Arduino voor meer informatie over het programmeren van de Arduino Micro: [link-naar-arduino-documentatie].
 
