@@ -1,4 +1,4 @@
-#Handleiding: HOME-Deck
+# Handleiding: HOME-Deck
 ##Materialen die je nodig hebt:
 orange Pi 5 (minimaal 8GB ram)
 7 inch scherm (aangeraden minimaal 1024*600 pixel)
