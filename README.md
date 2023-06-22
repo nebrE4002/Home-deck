@@ -197,13 +197,11 @@ Voeg de code toe om de computer te laten denken dat de adruino micro een control
 Sluit de Arduino Micro aan op je computer via USB en upload de code naar de Arduino Micro.
 
 ## Stap 7: Behuizing en afwerking (optioneel)
-Als je een behuizing voor je handheld console wilt gebruiken, kun je er zelf een ondwerp maken gebaseerd op de onderdelen die jij gebuikt hebt. wil je daar geen tijd aan besteden zijn er bestanden beschikbaar die gebuikt kunnen worden.
-
-
-Zorg ervoor dat alle componenten stevig zijn bevestigd en dat er voldoende ruimte is voor de kabels en verbindingen.
+Als je een behuizing voor je handheld console wilt gebruiken, kun je er zelf een ondwerp maken gebaseerd op de onderdelen die jij gebuikt hebt. wil je daar geen tijd aan besteden zijn er [bestanden](https://github.com/nebrE4002/Home-deck/tree/main/3D%20behuizing) beschikbaar die gebuikt kunnen worden. deze bestanden kunnen aangepast worden als dit nodig is.
+>Zorg ervoor dat alle componenten stevig zijn bevestigd en dat er voldoende ruimte is voor de kabels en verbindingen.
 
 ## Stap 8: Aan de slag met je handheld console
-Start de Raspberry Pi op en volg de configuratie-instructies op het scherm om het Armbian-besturingssysteem in te stellen.
+Start de Orange Pi op en volg de configuratie-instructies op het scherm om het Armbian-besturingssysteem in te stellen.
 Zodra de Raspberry Pi is opgestart, open je de Steam-client en meld je je aan bij je Steam-account.
 Je kunt nu beginnen met het installeren en spelen van games op je handheld console!
 
