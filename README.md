@@ -1,6 +1,6 @@
 # HOME-Deck
 
-uitleg project ....
+maak er zelf ook een. volg de instructies hier onder.
 
 
 
