@@ -200,15 +200,6 @@ Sluit de Arduino Micro aan op je computer via USB en upload de code naar de Ardu
 Als je een behuizing voor je handheld console wilt gebruiken, kun je er zelf een ondwerp maken gebaseerd op de onderdelen die jij gebuikt hebt. wil je daar geen tijd aan besteden zijn er [bestanden](https://github.com/nebrE4002/Home-deck/tree/main/3D%20behuizing) beschikbaar die gebuikt kunnen worden. deze bestanden kunnen aangepast worden als dit nodig is.
 >Zorg ervoor dat alle componenten stevig zijn bevestigd en dat er voldoende ruimte is voor de kabels en verbindingen.
 
-## Stap 8: Aan de slag met je handheld console
-Start de Orange Pi op en volg de configuratie-instructies op het scherm om het Armbian-besturingssysteem in te stellen.
-Zodra de Raspberry Pi is opgestart, open je de Steam-client en meld je je aan bij je Steam-account.
-Je kunt nu beginnen met het installeren en spelen van games op je handheld console!
-
-## Extra bronnen:
-Voor meer gedetailleerde informatie over het installeren en instellen van Armbian kun je terecht op [link-naar-armbian-website](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
-Informatie over het installeren van Steam op Armbian is te vinden op [link-naar-steam-website].
-Raadpleeg de documentatie van Arduino voor meer informatie over het programmeren van de Arduino Micro: [link-naar-arduino-documentatie].
 
 Let op: Zorg ervoor dat je altijd de officiële websites van de genoemde software en documentatie raadpleegt voor de meest recente instructies en informatie.
 
