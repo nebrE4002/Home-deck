@@ -87,6 +87,7 @@ voor meer informatie ga naar > [Installing Steam on the Orange Pi 5 with Armbian
 ## Stap 5: Aansluiten controller
 Sluit de Arduino Micro aan op de Orange Pi met behulp van een USB-kabel.
 Verbind de joysticks en knoppen met de Arduino Micro volgens het electrics schema.
+![1_diagram](https://github.com/nebrE4002/Home-deck/assets/26647410/6e2e3d75-94b7-472e-ac5a-0bc76172d539)
 
 ## Stap 6: Programmeer de Arduino Micro
 Ga naar website voor Arduino-ontwikkeling en download de Arduino IDE voor je besturingssysteem.
