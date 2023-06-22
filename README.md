@@ -197,7 +197,10 @@ Voeg de code toe om de computer te laten denken dat de adruino micro een control
 Sluit de Arduino Micro aan op je computer via USB en upload de code naar de Arduino Micro.
 
 ## Stap 7: Behuizing en afwerking (optioneel)
-Als je een behuizing voor je handheld console wilt gebruiken, volg dan de instructies van de fabrikant om de onderdelen in de behuizing te monteren. Zorg ervoor dat alle componenten stevig zijn bevestigd en dat er voldoende ruimte is voor de kabels en verbindingen.
+Als je een behuizing voor je handheld console wilt gebruiken, kun je er zelf een ondwerp maken gebaseerd op de onderdelen die jij gebuikt hebt. wil je daar geen tijd aan besteden zijn er bestanden beschikbaar die gebuikt kunnen worden.
+
+
+Zorg ervoor dat alle componenten stevig zijn bevestigd en dat er voldoende ruimte is voor de kabels en verbindingen.
 
 ## Stap 8: Aan de slag met je handheld console
 Start de Raspberry Pi op en volg de configuratie-instructies op het scherm om het Armbian-besturingssysteem in te stellen.
