@@ -84,9 +84,9 @@ om steam op te starten open je de terminal en run je de command:
 
 voor meer informatie ga naar > [Installing Steam on the Orange Pi 5 with Armbian](https://jamesachambers.com/installing-steam-on-the-orange-pi-5-with-armbian/)
 
-## Stap 5: Sluit de Arduino Micro aan
+## Stap 5: Aansluiten controller
 Sluit de Arduino Micro aan op de Orange Pi met behulp van een USB-kabel.
-Verbind de joysticks en knoppen met de Arduino Micro volgens het schema dat je hebt gebruikt bij het bouwen van je handheld console.
+Verbind de joysticks en knoppen met de Arduino Micro volgens het electrics schema.
 
 ## Stap 6: Programmeer de Arduino Micro
 Ga naar website voor Arduino-ontwikkeling en download de Arduino IDE voor je besturingssysteem.
